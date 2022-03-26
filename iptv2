@@ -1,6 +1,3 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml"
-#EXTINF:-1 tvg-id="9XJalwa.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/6h83JRO.png" group-title="Music",9X Jalwa (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0nc/index.m3u8
 #EXTINF:-1 tvg-id="9XM.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="Music",9XM (480p)
 http://144.217.70.181:9587/hin2/STARBHARATUK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AajTak.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/x1Y2P21.png" group-title="News",Aaj Tak (360p)
